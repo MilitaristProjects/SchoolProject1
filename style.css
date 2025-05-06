@@ -36,7 +36,7 @@ body {
   
   .nav-link {
     display: infine-block;
-    font-size: 39px;
+    font-size: 30px;
     text-decoration: none;
     color: black;
     border: 1px solid rgb(0, 128, 0);
@@ -113,6 +113,18 @@ body {
 
   .li {
     width: 90%;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    font-size: 24px;
+    background-color: rgb(39, 203, 88);
+    border: 1px solid rgb(39, 203, 88);
+    margin-left: 20px;
+  }
+
+  .li1 {
+    width: 37%;
     text-decoration: none;
     color: black;
     padding: 5px;
